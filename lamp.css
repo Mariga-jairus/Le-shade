@@ -1,0 +1,15 @@
+.jar{
+    background-color: #4f494950;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#fer{
+    background-color: #4f494950;
+    color: white;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    padding: 10px;
+    text-align: center;
+}
